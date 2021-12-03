@@ -1,5 +1,5 @@
 # Clustering Countries
-<img src = "https://github.com/TheGupta2012/Clustering-Countries/blob/master/EDA%20scatter%20Plots/income_health_fert_and_mort.png" width = 490px height = 320px border = 1px> <br>
+<img src = "https://github.com/TheGupta2012/Clustering-Countries/blob/master/EDA%20scatter%20Plots/income_health_expec_and_mort.png" width = 490px height = 320px border = 1px> <br>
 ### Course : COCSC16 | Data Mining | Fall 2021
 ### About
 - This project was an application of an **Unsupervised Learning**  which seeks to cluster similar countries using the **K-Means++ Clustering Algorithm**. The clustering is done for countries on the basis of health based and socio-economic factors and thus a subset of most deprived countries is extracted.
